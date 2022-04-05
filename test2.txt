@@ -1,0 +1,2 @@
+"1.13 Git push origin HEAD -f dùng khi commit lại mà chưa review
+ (git commit --amend sau đó dùng push origin HEAD -f)"

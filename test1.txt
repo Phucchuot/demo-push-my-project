@@ -1,0 +1,2 @@
+"1.12. Git rebase -i HEAD~n (Gộp commit n là số commit cần gộp, 
+f: bỏ commit, r update commit, xem thêm mấy ký tự khác)"
